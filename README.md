@@ -17,3 +17,10 @@ go mod init [root folder name]
 go mod tidy
 ```
 
+4. build and run the project
+
+```
+go build
+
+go run main.go
+```
